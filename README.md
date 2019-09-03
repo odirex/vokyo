@@ -1,4 +1,4 @@
-## Welcome to this placeholder page, bitches.
+## Welcome to this placeholder page for Chronit IT. tech advice coming here soon.
 
 You can use the [editor on GitHub](https://github.com/odirex/chronicit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
