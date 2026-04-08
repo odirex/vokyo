@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Autologon
 parent: Legacy
@@ -14,4 +14,10 @@ Configure the Windows built-in autologon mechanism safely to log in without ente
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [Netplwiz](https://support.microsoft.com/en-us/windows/automatically-log-in-to-your-windows-user-account-1d6360c1-3069-450f-90e6-52c3c90a905a)
+**Why:** The built-in Windows 
+etplwiz command is the modern, native way to configure automated user login securely.
 

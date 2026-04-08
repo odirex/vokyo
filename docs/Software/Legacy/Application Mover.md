@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Application Mover
 parent: Legacy
@@ -12,4 +12,9 @@ grand_parent: Software
 Application Mover relocates installed programs from one path to another on your hard disk. By Funduc Software.
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [FolderMove](https://foldermove.com/)
+**Why:** Allows you to move installation folders of Apps or Games to another drive without breaking them or reinstalling.
 

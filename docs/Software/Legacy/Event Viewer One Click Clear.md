@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Event Viewer One Click Clear
 parent: Legacy
@@ -13,4 +13,9 @@ A utility to quickly clear all Windows Event Viewer logs with a single action.
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [PowerShell Clear-EventLog](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/clear-eventlog)
+**Why:** Use the native Clear-EventLog command in PowerShell to safely and completely wipe system logs without third-party tools.
 

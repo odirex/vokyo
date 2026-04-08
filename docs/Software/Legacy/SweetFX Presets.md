@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: SweetFX Presets
 parent: Legacy
@@ -13,4 +13,9 @@ A repository for post-proccessing shader injection presets to enhance game visua
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [ReShade](https://reshade.me/)
+**Why:** The most advanced and widely supported post-processing injector for modern games and video software.
 

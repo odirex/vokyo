@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: WSUS Offline
 parent: Legacy
@@ -14,4 +14,9 @@ Update Microsoft Windows and Office securely and offline by downloading all requ
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [WSUS Offline Community Edition](https://gitlab.com/wsusoffline/wsusoffline)
+**Why:** The community-led continuation of the original project, providing current updates for modern Windows versions.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: RBTray
 parent: Legacy
@@ -14,4 +14,9 @@ A small utility that allows you to minimize any window to the system tray using 
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+**Why:** Microsoft PowerToys offers advanced window management features like 'Always on Top' and 'FancyZones'.
 

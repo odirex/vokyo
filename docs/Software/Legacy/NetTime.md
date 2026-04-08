@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: NetTime
 parent: Legacy
@@ -14,4 +14,9 @@ A simple Time Sync tool that allows clients to synchronize their system clocks w
 
 
 
+
+
+## Recommended Modern Replacement
+**Software:** [Meinberg NTP](https://www.meinbergglobal.com/english/sw/ntp.htm)
+**Why:** Considered the industry standard for high-precision network time synchronization on Windows systems.
 
