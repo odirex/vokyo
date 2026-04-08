@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: DNS Tester
-parent: Networking
+parent: Legacy
 grand_parent: Software
 ---
 # DNS Tester

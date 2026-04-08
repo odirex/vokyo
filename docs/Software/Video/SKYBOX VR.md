@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://skybox.xyz/en/](https://skybox.xyz/en/)
 
 **Description:**
-Bookmark for SKYBOX VR. Please visit the link for more detailed information.
+Universal VR video player supporting 4K/8K content, local streaming, and various 3D/VR formats.
+
 
 
 

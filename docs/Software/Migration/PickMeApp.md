@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.pickmeapp.com/](http://www.pickmeapp.com/)
 
 **Description:**
-Bookmark for PickMeApp. Please visit the link for more detailed information.
+Capture and transfer installed applications from one Windows PC to another.
+
 
 
 

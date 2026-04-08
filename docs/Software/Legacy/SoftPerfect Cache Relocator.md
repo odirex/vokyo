@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: SoftPerfect Cache Relocator
-parent: Performance
+parent: Legacy
 grand_parent: Software
 ---
 # SoftPerfect Cache Relocator

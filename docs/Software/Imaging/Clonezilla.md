@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://clonezilla.org/downloads.php](http://clonezilla.org/downloads.php)
 
 **Description:**
-Bookmark for Clonezilla. Please visit the link for more detailed information.
+Partition and disk imaging/cloning program similar to Symantec Ghost.
+
 
 
 

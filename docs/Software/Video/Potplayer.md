@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://potplayer.daum.net/](https://potplayer.daum.net/)
 
 **Description:**
-Bookmark for Potplayer. Please visit the link for more detailed information.
+Highly customizable and lightweight multimedia player for Windows with extensive codec support.
+
 
 
 

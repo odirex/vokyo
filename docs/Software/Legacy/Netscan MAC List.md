@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Netscan MAC List
-parent: Networking
+parent: Legacy
 grand_parent: Software
 ---
 # Netscan MAC List
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://standards-oui.ieee.org/oui/oui.txt](https://standards-oui.ieee.org/oui/oui.txt)
 
 **Description:**
-Bookmark for Netscan MAC List. Please visit the link for more detailed information.
+A utility to scan and list MAC addresses and IP information across a network.
+
 
 
 

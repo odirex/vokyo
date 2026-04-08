@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: WSUS Offline
-parent: Utility
+parent: Legacy
 grand_parent: Software
 ---
 # WSUS Offline
@@ -9,7 +9,9 @@ grand_parent: Software
 **Link:** [https://gitlab.com/wsusoffline/wsusoffline/-/releases](https://gitlab.com/wsusoffline/wsusoffline/-/releases)
 
 **Description:**
-Bookmark for WSUS Offline. Please visit the link for more detailed information.
+Update Microsoft Windows and Office securely and offline by downloading all required patches locally.
+
+
 
 
 

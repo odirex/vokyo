@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://labs.vmware.com/flings/vmware-os-optimization-tool](https://labs.vmware.com/flings/vmware-os-optimization-tool)
 
 **Description:**
-Bookmark for VMware OS Optimization Tool. Please visit the link for more detailed information.
+Optimize Windows desktop and server OS for virtual environments by disabling unnecessary services.
+
 
 
 

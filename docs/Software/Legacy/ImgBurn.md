@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: ImgBurn
-parent: Imaging
+parent: Legacy
 grand_parent: Software
 ---
 # ImgBurn
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.imgburn.com/index.php?act=screenshots](http://www.imgburn.com/index.php?act=screenshots)
 
 **Description:**
-Bookmark for ImgBurn. Please visit the link for more detailed information.
+Lightweight, powerful tool to write images to CD, DVD, and Blu-ray discs.
+
 
 
 

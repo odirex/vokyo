@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://diversion.ch/diversion/requirements.html](https://diversion.ch/diversion/requirements.html)
 
 **Description:**
-Bookmark for Requirements - Diversion. Please visit the link for more detailed information.
+The original ad-blocker for Asuswrt-Merlin firmware, blocking ads on a network-wide level.
+
 
 
 

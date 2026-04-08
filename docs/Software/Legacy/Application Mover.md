@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Application Mover
-parent: Migration
+parent: Legacy
 grand_parent: Software
 ---
 # Application Mover

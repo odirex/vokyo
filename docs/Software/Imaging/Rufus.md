@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://rufus.akeo.ie/](http://rufus.akeo.ie/)
 
 **Description:**
-Bookmark for Rufus. Please visit the link for more detailed information.
+Small utility to create bootable USB drives for Windows, Linux, and ISO files.
+
 
 
 

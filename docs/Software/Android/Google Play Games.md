@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://play.google.com/googleplaygames/exploregames](https://play.google.com/googleplaygames/exploregames)
 
 **Description:**
-Bookmark for Google Play Games. Please visit the link for more detailed information.
+The official Google PC client allowing you to play Android games on Windows.
+
 
 
 

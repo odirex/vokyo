@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.asuswrt-merlin.net/](https://www.asuswrt-merlin.net/)
 
 **Description:**
-Bookmark for Home - Asuswrt-Merlin. Please visit the link for more detailed information.
+Modified, performance-focused custom firmware for specific ASUS routers.
+
 
 
 

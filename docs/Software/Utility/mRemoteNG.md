@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://mremoteng.org/](https://mremoteng.org/)
 
 **Description:**
-Bookmark for mRemoteNG. Please visit the link for more detailed information.
+Open-source tool to manage all your remote connections in a single, tabbed interface.
+
 
 
 

@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://zxing.appspot.com/generator/](http://zxing.appspot.com/generator/)
 
 **Description:**
-Bookmark for QR Code Generator. Please visit the link for more detailed information.
+Simple tool for generating QR codes for URLs, text, and other data.
+
 
 
 

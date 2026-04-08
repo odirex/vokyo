@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://deskreen.com/lang-en](https://deskreen.com/lang-en)
 
 **Description:**
-Bookmark for Deskreen. Please visit the link for more detailed information.
+Turn any device with a web browser into a second screen for your computer over Wi-Fi.
+
 
 
 

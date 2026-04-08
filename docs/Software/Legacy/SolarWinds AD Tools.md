@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: SolarWinds AD Tools
-parent: Active Directory
+parent: Legacy
 grand_parent: Software
 ---
 # SolarWinds AD Tools
@@ -10,5 +10,6 @@ grand_parent: Software
 
 **Description:**
 A suite of free mini utilities by SolarWinds for querying and managing Microsoft Active Directory environments.
+
 
 

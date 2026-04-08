@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.nexusmods.com/site/mods/21/](https://www.nexusmods.com/site/mods/21/)
 
 **Description:**
-Bookmark for Unity Mod Manager. Please visit the link for more detailed information.
+A mod manager and loader for various Unity-based games.
+
 
 
 

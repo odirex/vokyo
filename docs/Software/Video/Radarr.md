@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://radarr.video/](https://radarr.video/)
 
 **Description:**
-Bookmark for Radarr. Please visit the link for more detailed information.
+Movie collection manager for Usenet and BitTorrent users that automates movie discovery and downloading.
+
 
 
 

@@ -1,10 +1,10 @@
-﻿---
+---
 layout: default
-title: Free Speech To Text Software, Free Voice Recognition Software, Free Voice To Text Software, Free Dictation Software, Free Speech Recognition Software
+title: LilySpeech
 parent: Utility
 grand_parent: Software
 ---
-# Free Speech To Text Software, Free Voice Recognition Software, Free Voice To Text Software, Free Dictation Software, Free Speech Recognition Software
+# LilySpeech
 
 **Link:** [https://lilyspeech.com/](https://lilyspeech.com/)
 

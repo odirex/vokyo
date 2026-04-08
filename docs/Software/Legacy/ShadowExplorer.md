@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: ShadowExplorer
-parent: Recovery
+parent: Legacy
 grand_parent: Software
 ---
 # ShadowExplorer
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.askvg.com/shadowexplorer-browse-through-shadow-copies-in-all-windows-vista-versions/](http://www.askvg.com/shadowexplorer-browse-through-shadow-copies-in-all-windows-vista-versions/)
 
 **Description:**
-Bookmark for ShadowExplorer. Please visit the link for more detailed information.
+Browse and restore files from Windows Volume Shadow Copies (Shadow Copies).
+
 
 
 

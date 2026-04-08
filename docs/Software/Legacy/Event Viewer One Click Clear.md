@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Event Viewer One Click Clear
-parent: Windows
+parent: Legacy
 grand_parent: Software
 ---
 # Event Viewer One Click Clear
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.sevenforums.com/tutorials/25480-event-viewer-one-click-clear.html](http://www.sevenforums.com/tutorials/25480-event-viewer-one-click-clear.html)
 
 **Description:**
-Bookmark for Event Viewer One Click Clear. Please visit the link for more detailed information.
+A utility to quickly clear all Windows Event Viewer logs with a single action.
+
 
 
 

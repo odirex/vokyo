@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: AmoK Exif Sorter
-parent: Recovery
+parent: Legacy
 grand_parent: Software
 ---
 # AmoK Exif Sorter
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.amok.am/en/freeware/amok_exif_sorter/](http://www.amok.am/en/freeware/amok_exif_sorter/)
 
 **Description:**
-Bookmark for AmoK Exif Sorter. Please visit the link for more detailed information.
+Sort and rename digital photos based on their EXIF data (date, camera model, etc.).
+
 
 
 

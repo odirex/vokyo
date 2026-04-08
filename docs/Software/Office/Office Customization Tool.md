@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://config.office.com/deploymentsettings](https://config.office.com/deploymentsettings)
 
 **Description:**
-Bookmark for Office Customization Tool. Please visit the link for more detailed information.
+Microsoft's official web tool for creating configuration files for the Office Deployment Tool.
+
 
 
 

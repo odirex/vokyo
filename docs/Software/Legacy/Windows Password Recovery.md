@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Windows Password Recovery
-parent: Windows
+parent: Legacy
 grand_parent: Software
 ---
 # Windows Password Recovery

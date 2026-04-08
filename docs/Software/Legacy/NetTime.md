@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: NetTime
-parent: Utility
+parent: Legacy
 grand_parent: Software
 ---
 # NetTime
@@ -9,7 +9,9 @@ grand_parent: Software
 **Link:** [http://www.timesynctool.com/](http://www.timesynctool.com/)
 
 **Description:**
-Bookmark for NetTime. Please visit the link for more detailed information.
+A simple Time Sync tool that allows clients to synchronize their system clocks with Internet time servers.
+
+
 
 
 

@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Visual Subst
-parent: Windows
+parent: Legacy
 grand_parent: Software
 ---
 # Visual Subst
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://www.ntwind.com/software/utilities/visual-subst.html](http://www.ntwind.com/software/utilities/visual-subst.html)
 
 **Description:**
-Bookmark for Visual Subst. Please visit the link for more detailed information.
+A small utility that allows you to associate the most used directories with virtual drive letters, making it easier to access deeply nested folders.
+
 
 
 

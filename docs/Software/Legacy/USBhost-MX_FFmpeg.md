@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: USBhost-MX_FFmpeg
-parent: Video
+parent: Legacy
 grand_parent: Software
 ---
 # USBhost-MX_FFmpeg

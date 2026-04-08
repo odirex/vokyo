@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.vrdesktop.net/](https://www.vrdesktop.net/)
 
 **Description:**
-Bookmark for Virtual Desktop. Please visit the link for more detailed information.
+Connect your PC to your VR headset wirelessly to watch movies, browse, or play games in VR.
+
 
 
 

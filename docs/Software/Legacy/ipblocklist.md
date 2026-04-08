@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: ipblocklist
-parent: Networking
+parent: Legacy
 grand_parent: Software
 ---
 # ipblocklist
@@ -10,6 +10,7 @@ grand_parent: Software
 
 **Description:**
 IP list full of bad IPs - Updated every 2H. Contribute to bitwire-it/ipblocklist development by creating an account on GitHub.
+
 
 
 

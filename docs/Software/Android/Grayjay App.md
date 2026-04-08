@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://grayjay.app/](https://grayjay.app/)
 
 **Description:**
-Bookmark for Grayjay App - Follow Creators Not Platforms. Please visit the link for more detailed information.
+A privacy-focused media aggregator that lets you follow creators across different platforms.
+
 
 
 

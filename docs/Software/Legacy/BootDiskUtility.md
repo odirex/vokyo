@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: BootDiskUtility
-parent: Utility
+parent: Legacy
 grand_parent: Software
 ---
 # BootDiskUtility
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://cvad-mac.narod.ru/index/bootdiskutility_exe/0-5](http://cvad-mac.narod.ru/index/bootdiskutility_exe/0-5)
 
 **Description:**
-Bookmark for BootDiskUtility. Please visit the link for more detailed information.
+Create macOS bootable USB disks and install Clover or OpenCore bootloaders.
+
 
 
 

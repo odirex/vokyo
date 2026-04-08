@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.4kdownload.com/buy-ab/videodownloader?source=videodownloader&ui_source=default](https://www.4kdownload.com/buy-ab/videodownloader?source=videodownloader&ui_source=default)
 
 **Description:**
-Bookmark for 4K Video Downloader. Please visit the link for more detailed information.
+Download high-quality video, playlists, and subtitles from YouTube and other video sites.
+
 
 
 

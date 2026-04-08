@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: RBTray
-parent: Utility
+parent: Legacy
 grand_parent: Software
 ---
 # RBTray
@@ -9,7 +9,9 @@ grand_parent: Software
 **Link:** [http://rbtray.sourceforge.net/](http://rbtray.sourceforge.net/)
 
 **Description:**
-Bookmark for RBTray. Please visit the link for more detailed information.
+A small utility that allows you to minimize any window to the system tray using a right-click on the minimize button.
+
+
 
 
 

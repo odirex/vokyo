@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: SweetFX Presets
-parent: Gaming
+parent: Legacy
 grand_parent: Software
 ---
 # SweetFX Presets
@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://sfx.thelazy.net/games/game/28/](http://sfx.thelazy.net/games/game/28/)
 
 **Description:**
-Bookmark for SweetFX Presets. Please visit the link for more detailed information.
+A repository for post-proccessing shader injection presets to enhance game visuals.
+
 
 
 

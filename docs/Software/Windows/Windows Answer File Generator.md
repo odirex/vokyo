@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.windowsafg.com/win10x86_x64_uefi.html](https://www.windowsafg.com/win10x86_x64_uefi.html)
 
 **Description:**
-Bookmark for Windows Answer File Generator. Please visit the link for more detailed information.
+An online tool to generate `autounattend.xml` answer files for automated Windows installations (Windows 10, 11, etc.).
+
 
 
 

@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://portableapps.com/](http://portableapps.com/)
 
 **Description:**
-Bookmark for PortableApps. Please visit the link for more detailed information.
+A complete suite and platform for running your favorite software from a portable USB drive.
+
 
 
 

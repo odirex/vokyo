@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://www.factorio.com/](https://www.factorio.com/)
 
 **Description:**
-Bookmark for Factorio. Please visit the link for more detailed information.
+A game about building and creating automated factories to produce items of increasing complexity.
+
 
 
 

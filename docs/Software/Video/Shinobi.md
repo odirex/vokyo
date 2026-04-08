@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://shinobi.video/](https://shinobi.video/)
 
 **Description:**
-Bookmark for Shinobi - Simple CCTV and NVR Solution - Home. Please visit the link for more detailed information.
+Open-source, modernized CCTV and NVR (Network Video Recorder) solution designed for video management.
+
 
 
 

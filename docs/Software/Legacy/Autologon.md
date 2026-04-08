@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: Autologon
-parent: Utility
+parent: Legacy
 grand_parent: Software
 ---
 # Autologon
@@ -9,7 +9,9 @@ grand_parent: Software
 **Link:** [http://www.logonexpert.com/](http://www.logonexpert.com/)
 
 **Description:**
-Bookmark for Autologon. Please visit the link for more detailed information.
+Configure the Windows built-in autologon mechanism safely to log in without entering a password.
+
+
 
 
 

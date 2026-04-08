@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [https://sonarr.tv/](https://sonarr.tv/)
 
 **Description:**
-Bookmark for Sonarr. Please visit the link for more detailed information.
+Automated PVR for Usenet and BitTorrent users that monitors RSS feeds for new TV show episodes.
+
 
 
 

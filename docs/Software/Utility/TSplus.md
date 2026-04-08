@@ -9,7 +9,8 @@ grand_parent: Software
 **Link:** [http://terminalserviceplus.com/](http://terminalserviceplus.com/)
 
 **Description:**
-Bookmark for TSplus. Please visit the link for more detailed information.
+Provides remote desktop, application delivery, and web-access for Windows applications.
+
 
 
 

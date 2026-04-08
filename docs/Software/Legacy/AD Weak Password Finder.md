@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: AD Weak Password Finder
-parent: Active Directory
+parent: Legacy
 grand_parent: Software
 ---
 # AD Weak Password Finder
@@ -10,5 +10,6 @@ grand_parent: Software
 
 **Description:**
 A free utility by ManageEngine that audits Active Directory to identify users with weak passwords.
+
 
 
