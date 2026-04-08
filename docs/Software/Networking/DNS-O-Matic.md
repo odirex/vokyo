@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: DNS-O-Matic
 parent: Networking
@@ -12,4 +12,11 @@ grand_parent: Software
 DNS-O-Matic (dnsomatic.com) provides you a free and easy way to announce your dynamic IP changes to multiple services with a single update.
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://www.dnsomatic.com/](https://www.dnsomatic.com/)
 

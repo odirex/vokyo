@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: SKYBOX VR
 parent: Video
@@ -13,4 +13,11 @@ Universal VR video player supporting 4K/8K content, local streaming, and various
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://skybox.xyz/en/](https://skybox.xyz/en/)
 

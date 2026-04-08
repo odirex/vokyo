@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Windows Answer File Generator
 parent: Windows
@@ -13,4 +13,11 @@ An online tool to generate `autounattend.xml` answer files for automated Windows
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://www.windowsafg.com/win10x86_x64_uefi.html](https://www.windowsafg.com/win10x86_x64_uefi.html)
 

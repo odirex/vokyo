@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Office Customization Tool
 parent: Office
@@ -13,4 +13,11 @@ Microsoft's official web tool for creating configuration files for the Office De
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://config.office.com/deploymentsettings](https://config.office.com/deploymentsettings)
 

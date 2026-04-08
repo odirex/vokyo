@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Shell
 parent: Windows
@@ -12,4 +12,11 @@ grand_parent: Software
 Powerful context menu manager for Windows File Explorer - moudey/Shell
 
 
+
+
+**WinGet Command:**
+`winget install `
+
+**Latest Downloads:**
+[https://github.com/moudey/Shell](https://github.com/moudey/Shell)
 

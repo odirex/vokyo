@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: GlassWire
 parent: Networking
@@ -12,4 +12,11 @@ grand_parent: Software
 GlassWire is a modern personal firewall and network monitor with over 51 million downloads. Download GlassWire free!
 
 
+
+
+**WinGet Command:**
+`winget install GlassWire.GlassWire`
+
+**Latest Downloads:**
+[https://www.glasswire.com/download/](https://www.glasswire.com/download/)
 

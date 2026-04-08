@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: revanced-manager
 parent: Video
@@ -12,4 +12,11 @@ grand_parent: Software
 💊 Application to use ReVanced on Android . Contribute to ReVanced/revanced-manager development by creating an account on GitHub.
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://github.com/revanced/revanced-manager](https://github.com/revanced/revanced-manager)
 

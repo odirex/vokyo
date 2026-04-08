@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: ramdisk
 parent: Legacy
@@ -18,4 +18,11 @@ Replacement (GUI + windows service) for ImDisk Toolkit - by using Arsenal Image 
 ## Recommended Modern Replacement
 **Software:** [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)
 **Why:** The modern, open-source standard for creating and managing RAM disks with superior driver compatibility.
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://github.com/tmcdos/ramdisk](https://github.com/tmcdos/ramdisk)
 

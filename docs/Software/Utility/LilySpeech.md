@@ -13,3 +13,10 @@ LilySpeech allows you to type with your voice anywhere in Windows. Download Lily
 
 
 
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://lilyspeech.com/](https://lilyspeech.com/)
+

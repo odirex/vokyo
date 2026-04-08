@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: SoftPerfect Cache Relocator
 parent: Legacy
@@ -17,4 +17,11 @@ SoftPerfect - Australian software development company. Free and commercial solut
 ## Recommended Modern Replacement
 **Software:** [mklink (Symlinks)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mklink)
 **Why:** Use native Windows symbolic links to relocate application caches to any drive or partition reliably.
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[http://www.softperfect.com/](http://www.softperfect.com/)
 

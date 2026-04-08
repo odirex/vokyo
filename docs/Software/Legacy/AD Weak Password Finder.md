@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: AD Weak Password Finder
 parent: Legacy
@@ -17,4 +17,11 @@ A free utility by ManageEngine that audits Active Directory to identify users wi
 ## Recommended Modern Replacement
 **Software:** [PingCastle](https://www.pingcastle.com/)
 **Why:** A comprehensive Active Directory auditing tool that identifies security risks and provides actionable remediation steps.
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://www.manageengine.com/products/free-windows-active-directory-tools/free-active-directory-weak-password-finder.html](https://www.manageengine.com/products/free-windows-active-directory-tools/free-active-directory-weak-password-finder.html)
 

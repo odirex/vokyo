@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: youtube-autoplay
 parent: Extensions
@@ -11,5 +11,10 @@ grand_parent: Software
 **Description:**
 Browser extension that disables autoplay on YouTube - dessant/youtube-autoplay
 
+
+
+
+**Latest Downloads:**
+[https://github.com/dessant/youtube-autoplay](https://github.com/dessant/youtube-autoplay)
 
 

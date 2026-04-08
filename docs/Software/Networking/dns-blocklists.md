@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: dns-blocklists
 parent: Networking
@@ -12,4 +12,11 @@ grand_parent: Software
 DNS-Blocklists: For a better internet - keep the internet clean! - hagezi/dns-blocklists
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://github.com/hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
 

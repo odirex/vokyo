@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: VMware OS Optimization Tool
 parent: Virtualization
@@ -13,4 +13,11 @@ Optimize Windows desktop and server OS for virtual environments by disabling unn
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://labs.vmware.com/flings/vmware-os-optimization-tool](https://labs.vmware.com/flings/vmware-os-optimization-tool)
 

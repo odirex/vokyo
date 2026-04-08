@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Potplayer
 parent: Video
@@ -13,4 +13,11 @@ Highly customizable and lightweight multimedia player for Windows with extensive
 
 
 
+
+
+**WinGet Command:**
+`winget install `
+
+**Latest Downloads:**
+[https://potplayer.daum.net/](https://potplayer.daum.net/)
 

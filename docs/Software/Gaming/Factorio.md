@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Factorio
 parent: Gaming
@@ -12,5 +12,10 @@ grand_parent: Software
 A game about building and creating automated factories to produce items of increasing complexity.
 
 
+
+
+
+**Latest Downloads:**
+[https://www.factorio.com/](https://www.factorio.com/)
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: mRemoteNG
 parent: Utility
@@ -13,4 +13,11 @@ Open-source tool to manage all your remote connections in a single, tabbed inter
 
 
 
+
+
+**WinGet Command:**
+`winget install mRemoteNG.mRemoteNG`
+
+**Latest Downloads:**
+[https://github.com/mRemoteNG/mRemoteNG/releases](https://github.com/mRemoteNG/mRemoteNG/releases)
 

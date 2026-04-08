@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: TSplus
 parent: Utility
@@ -13,4 +13,11 @@ Provides remote desktop, application delivery, and web-access for Windows applic
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[http://terminalserviceplus.com/](http://terminalserviceplus.com/)
 

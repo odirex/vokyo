@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Show and Hide Passwords
 parent: Extensions
@@ -11,5 +11,10 @@ grand_parent: Software
 **Description:**
 Show and Hide Passwords allows you to view and hide passwords on password fields.
 
+
+
+
+**Latest Downloads:**
+[https://chrome.google.com/webstore/detail/show-and-hide-passwords/panhbjhhhpldcicghpekhonnmfnpgibd](https://chrome.google.com/webstore/detail/show-and-hide-passwords/panhbjhhhpldcicghpekhonnmfnpgibd)
 
 

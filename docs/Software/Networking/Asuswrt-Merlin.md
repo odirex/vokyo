@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Asuswrt-Merlin
 parent: Networking
@@ -13,4 +13,11 @@ Modified, performance-focused custom firmware for specific ASUS routers.
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://www.asuswrt-merlin.net/](https://www.asuswrt-merlin.net/)
 

@@ -1,7 +1,7 @@
-﻿---
+---
 layout: default
 title: FastCopy
-parent: Utility
+parent: PortableApps
 grand_parent: Software
 ---
 # FastCopy
@@ -12,4 +12,11 @@ grand_parent: Software
 FastCopy Official site
 
 
+
+
+**WinGet Command:**
+`winget install FastCopy.FastCopy`
+
+**Latest Downloads:**
+[https://github.com/FastCopyLab/FastCopy/releases](https://github.com/FastCopyLab/FastCopy/releases)
 

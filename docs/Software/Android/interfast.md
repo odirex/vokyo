@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: interfast
 parent: Android
@@ -11,5 +11,10 @@ grand_parent: Software
 **Description:**
 Intermittent Fasting App. Contribute to Husseinfo/interfast development by creating an account on GitHub.
 
+
+
+
+**Latest Downloads:**
+[https://github.com/Husseinfo/interfast/releases](https://github.com/Husseinfo/interfast/releases)
 
 

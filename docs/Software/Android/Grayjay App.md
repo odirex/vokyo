@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Grayjay App
 parent: Android
@@ -12,5 +12,10 @@ grand_parent: Software
 A privacy-focused media aggregator that lets you follow creators across different platforms.
 
 
+
+
+
+**Latest Downloads:**
+[https://grayjay.app/](https://grayjay.app/)
 
 

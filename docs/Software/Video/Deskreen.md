@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Deskreen
 parent: Video
@@ -13,4 +13,11 @@ Turn any device with a web browser into a second screen for your computer over W
 
 
 
+
+
+**WinGet Command:**
+`winget install pavlobu.deskreen`
+
+**Latest Downloads:**
+[https://deskreen.com/lang-en](https://deskreen.com/lang-en)
 

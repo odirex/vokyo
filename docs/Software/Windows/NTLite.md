@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: NTLite
 parent: Windows
@@ -12,4 +12,11 @@ grand_parent: Software
 Official NTLite website
 
 
+
+
+**WinGet Command:**
+`winget install NTLite.NTLite`
+
+**Latest Downloads:**
+[https://www.ntlite.com/download/](https://www.ntlite.com/download/)
 

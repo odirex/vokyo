@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Clonezilla
 parent: Imaging
@@ -13,4 +13,11 @@ Partition and disk imaging/cloning program similar to Symantec Ghost.
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[http://clonezilla.org/downloads.php](http://clonezilla.org/downloads.php)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: perfect-home
 parent: Extensions
@@ -11,5 +11,10 @@ grand_parent: Software
 **Description:**
 firefox newtab/home replacement. Contribute to perfect-things/perfect-home development by creating an account on GitHub.
 
+
+
+
+**Latest Downloads:**
+[https://github.com/perfect-things/perfect-home](https://github.com/perfect-things/perfect-home)
 
 

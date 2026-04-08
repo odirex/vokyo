@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Dark Reader
 parent: Extensions
@@ -11,5 +11,10 @@ grand_parent: Software
 **Description:**
 Enable dark mode (night mode) on all websites
 
+
+
+
+**Latest Downloads:**
+[https://darkreader.org/](https://darkreader.org/)
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Certify the Web
 parent: Networking
@@ -12,4 +12,11 @@ grand_parent: Software
 Certify The Web provides a simple way to use Let
 
 
+
+
+**WinGet Command:**
+`winget install CertifyTheWeb.Certify`
+
+**Latest Downloads:**
+[https://certifytheweb.com/home/download](https://certifytheweb.com/home/download)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: QR Code Generator
 parent: Utility
@@ -13,4 +13,11 @@ Simple tool for generating QR codes for URLs, text, and other data.
 
 
 
+
+
+**WinGet Command:**
+`winget install Code`
+
+**Latest Downloads:**
+[http://zxing.appspot.com/generator/](http://zxing.appspot.com/generator/)
 

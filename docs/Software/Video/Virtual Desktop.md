@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Virtual Desktop
 parent: Video
@@ -13,4 +13,11 @@ Connect your PC to your VR headset wirelessly to watch movies, browse, or play g
 
 
 
+
+
+**WinGet Command:**
+`winget install `
+
+**Latest Downloads:**
+[https://www.vrdesktop.net/](https://www.vrdesktop.net/)
 

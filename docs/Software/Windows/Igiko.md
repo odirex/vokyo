@@ -14,3 +14,10 @@ Web-based management, monitoring, and remote access for Windows and Hyper-V envi
 
 
 
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://www.igiko.com/download](https://www.igiko.com/download)
+

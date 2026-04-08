@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: ExplorerPatcher
 parent: Windows
@@ -12,4 +12,11 @@ grand_parent: Software
 This project aims to enhance the working environment on Windows - valinet/ExplorerPatcher
 
 
+
+
+**WinGet Command:**
+`winget install valinet.ExplorerPatcher`
+
+**Latest Downloads:**
+[https://github.com/valinet/ExplorerPatcher/releases](https://github.com/valinet/ExplorerPatcher/releases)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Diversion
 parent: Networking
@@ -13,4 +13,11 @@ The original ad-blocker for Asuswrt-Merlin firmware, blocking ads on a network-w
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://diversion.ch/diversion/requirements.html](https://diversion.ch/diversion/requirements.html)
 

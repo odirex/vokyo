@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: PortableApps
 parent: Utility
@@ -13,4 +13,11 @@ A complete suite and platform for running your favorite software from a portable
 
 
 
+
+
+**WinGet Command:**
+`winget install Platform`
+
+**Latest Downloads:**
+[http://portableapps.com/](http://portableapps.com/)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Shinobi
 parent: Video
@@ -13,4 +13,11 @@ Open-source, modernized CCTV and NVR (Network Video Recorder) solution designed 
 
 
 
+
+
+**WinGet Command:**
+Not available on WinGet
+
+**Latest Downloads:**
+[https://shinobi.video/](https://shinobi.video/)
 

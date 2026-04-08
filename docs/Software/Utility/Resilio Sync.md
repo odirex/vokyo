@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Resilio Sync
 parent: Utility
@@ -12,4 +12,11 @@ grand_parent: Software
 Move fasterâmeet the new standard for high-performance data everywhere.
 
 
+
+
+**WinGet Command:**
+`winget install Resilio.ResilioSync`
+
+**Latest Downloads:**
+[https://www.resilio.com/individuals/download/](https://www.resilio.com/individuals/download/)
 

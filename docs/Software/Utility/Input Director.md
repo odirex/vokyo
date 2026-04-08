@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Input Director
 parent: Utility
@@ -12,4 +12,11 @@ grand_parent: Software
 Control multiple windows systems with one keyboard/mouse. Share a keyboard and mouse across multiple windows system.
 
 
+
+
+**WinGet Command:**
+`winget install Director`
+
+**Latest Downloads:**
+[https://www.inputdirector.com/](https://www.inputdirector.com/)
 

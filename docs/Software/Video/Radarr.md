@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Radarr
 parent: Video
@@ -13,4 +13,11 @@ Movie collection manager for Usenet and BitTorrent users that automates movie di
 
 
 
+
+
+**WinGet Command:**
+`winget install `
+
+**Latest Downloads:**
+[https://radarr.video/](https://radarr.video/)
 

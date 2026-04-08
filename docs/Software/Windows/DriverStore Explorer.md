@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: DriverStore Explorer
 parent: Windows
@@ -12,4 +12,11 @@ grand_parent: Software
 Driver Store Explorer. Contribute to lostindark/DriverStoreExplorer development by creating an account on GitHub.
 
 
+
+
+**WinGet Command:**
+`winget install LostMind.DriverStoreExplorer`
+
+**Latest Downloads:**
+[https://github.com/lostindark/DriverStoreExplorer/releases](https://github.com/lostindark/DriverStoreExplorer/releases)
 

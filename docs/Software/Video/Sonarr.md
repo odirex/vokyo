@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Sonarr
 parent: Video
@@ -13,4 +13,11 @@ Automated PVR for Usenet and BitTorrent users that monitors RSS feeds for new TV
 
 
 
+
+
+**WinGet Command:**
+`winget install `
+
+**Latest Downloads:**
+[https://sonarr.tv/](https://sonarr.tv/)
 

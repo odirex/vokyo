@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: 4K Video Downloader
 parent: Video
@@ -13,4 +13,11 @@ Download high-quality video, playlists, and subtitles from YouTube and other vid
 
 
 
+
+
+**WinGet Command:**
+`winget install Video`
+
+**Latest Downloads:**
+[https://www.4kdownload.com/buy-ab/videodownloader?source=videodownloader&ui_source=default](https://www.4kdownload.com/buy-ab/videodownloader?source=videodownloader&ui_source=default)
 
