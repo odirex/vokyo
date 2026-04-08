@@ -1,0 +1,15 @@
+﻿---
+layout: default
+title: TCP Optimizer
+parent: Networking
+grand_parent: Software
+---
+# TCP Optimizer
+
+**Link:** [http://www.speedguide.net/downloads.php](http://www.speedguide.net/downloads.php)
+
+**Description:**
+SpeedGuide.net - The Broadband Guide. Cable modems, DSL, Wireless, Network security. Free speed tweaks and TCP/IP tools for optimizing system performance.
+
+
+
