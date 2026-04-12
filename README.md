@@ -10,5 +10,3 @@ I do not service NYC or enterprise-sized companies.
 
 Want to get in touch? Send an email to info@vokyo.com
 
-
-
